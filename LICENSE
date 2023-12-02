@@ -139,7 +139,14 @@ Source.
   The Corresponding Source for a work in source code form is that
 same work.
 
-  2. Basic Permissions.
+  1. Basic Permissions.
+
+  The following are the basic permissions granted under this License:
+
+- Permission to run the unmodified Program.
+- Permission to make, run, and propagate covered works that you do not convey, without conditions, as long as your license remains in force.
+- Permission to convey covered works to others for the sole purpose of having them make modifications exclusively for you or provide you with facilities for running those works, provided that you comply with the terms of this License in conveying all material for which you do not control copyright.
+- Permission for others to make or run the covered works exclusively on your behalf, under your direction and control, on terms that prohibit them from making any copies of your copyrighted material outside their relationship with you.
 
   All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
